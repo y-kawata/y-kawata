@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @y-kawata
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on on ... MicrosoftEditor君が指摘してくれるはず
-- 📫 How to reech me ... enail MicrosoftEditor君が指摘してくれるはず
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... 
 
 <!---
 y-kawata/y-kawata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+以下文章校正用
 
 ==================================
 ネットワーク接続の留意事項
